@@ -1,6 +1,6 @@
 # MachineLearningClub_Assignment
 
-ImageNet Classification Report contains a review of the paper. It also has a solution to Task-2 of the assignment.
+ImageNet Classification Report contains a review of the paper (Task-1). It also has a solution to Task-2 of the assignment.
 
 Gaussian Process from scratch contains Python code for the implementation of Gaussian Processes. (Task-3)
 
